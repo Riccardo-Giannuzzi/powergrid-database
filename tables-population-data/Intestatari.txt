@@ -1,0 +1,12 @@
+/*------------------*\
+   DATI INTESTATARI
+\*------------------*/
+
+RSSMRA85M01F205Z, Mario, Rossi, 1985-05-01
+VRDLGU90A01H501X, Luigi, Verdi, 1990-01-01
+BNCLRA85M01G273S, Laura, Bianchi, 1985-05-01
+FRNDRN70D15F205S, Andrea, Ferrari, 1970-04-15
+MNISRV80C41H501Z, Silvia, Marini, 1980-03-01
+RCCGPP75M01G273U, Giuseppe, Riccetti, 1975-05-01
+BLLFNC82T30E463D, Francesca, Bellucci, 1982-09-30
+SMTMRC85A41G273K, Marco, Santini, 1985-01-01

@@ -1,0 +1,14 @@
+/*---------------*\
+   DATI IMMOBILI
+\*---------------*/
+
+G713, 7-456-01, abitazione, Via dei lavoratori, 10, 51100
+G713, 7-456-02, abitazione, Via dei lavoratori, 10, 51100
+G713, 22-456, azienda, Via dei lavoratori, 24, 51100
+H109, 15-123-01, abitazione, Via Roma, 5, 51039
+H109, 15-123-02, azienda, Via Roma, 5, 51039
+H744, 80-505, azienda, Via Genova, 14, 51020
+H744, 70-789, abitazione, Via Firenze, 354, 51020
+H744, 45-101, azienda, Via dell'oro, 5, 51020
+G833, 62-303, abitazione, Via Bari, 2, 51019
+G833, 53-202, abitazione, Via Torino, 3, 51019
